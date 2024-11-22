@@ -37,6 +37,10 @@
 
 </br>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kali-glixh&show_icons=true&theme=graywhite">
+    </br>
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kali-glixk&layout=compact&theme=graywhite">-->
+
 <p>
   <i>Until we meet again!</i><img heigth="30" width="30" align="left" src="https://static.wikia.nocookie.net/5d667ea4-abf9-4e47-b6a6-7c171f91690f/scale-to-width/755" alt="Star" />
 </p>
