@@ -20,6 +20,8 @@
   </a> 
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" heigth="40" width="40"  />
+  <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
+      <img src="https://cdn-icons-png.freepik.com/512/5105/5105250.png" alt="xml" heigth="40" width="40"  />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
